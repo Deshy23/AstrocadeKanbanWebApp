@@ -1,4 +1,4 @@
-﻿# AstrocadeKanbanWebApp
+﻿# Astrocade Kanban Web App
 Overview
 This project is a Kanban-style task management app built with React Native using Expo. It allows you to create tasks, organize them into columns (e.g. To Do, In Progress, Done), and drag-and-drop or move tasks between these columns.
 
